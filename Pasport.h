@@ -4,6 +4,7 @@
 
 class Pasport
 {
+protected:
 	std::string surname;
 	std::string name;
 	std::string patronymic;

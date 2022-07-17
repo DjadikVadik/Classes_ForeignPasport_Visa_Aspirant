@@ -10,6 +10,7 @@
 //  показ всех данных о студенте.
 
 class Student {
+protected:
 
 	std::string surname;
 	std::string name;
